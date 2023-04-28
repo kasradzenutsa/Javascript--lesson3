@@ -7,7 +7,7 @@ document.body.append(div);
 
 
 const h2 = document.createElement("h2");
-h2.innerText="Wht we should visit lisbon";
+h2.innerText="Why we should visit lisbon";
 div.appendChild (h2);
 h2.style.fontSize= "60px";
 
